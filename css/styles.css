@@ -390,7 +390,12 @@ section {
 
 .content-skills {
     display: inline-block;
+    margin: 10px;
     width: 110px;
+}
+.content-skills img{
+    width: 120px;
+    height: 96px;
 }
 
 .title-skill {
